@@ -23,6 +23,7 @@ while True:
         datos_alison()
         pass # Aquí se llamará a la función del integrante 2
     elif op == "3":
+        print("No tenemos tercer integrante en el grupo")
         pass # Aquí se llamará a la función del integrante 3
     else:
         print(" Opción inválida.")
